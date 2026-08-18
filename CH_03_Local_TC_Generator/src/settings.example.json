@@ -1,0 +1,7 @@
+{
+  "jira_email": "your.email@example.com",
+  "jira_token": "your_jira_api_token_here",
+  "jira_url": "https://your-domain.atlassian.net",
+  "ollama_url": "http://localhost:11434",
+  "groq_token": "your_groq_api_key_here"
+}

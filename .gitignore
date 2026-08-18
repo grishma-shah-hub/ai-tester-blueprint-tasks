@@ -4,3 +4,7 @@
 .commandcode/
 agent/
 skills-lock.json
+__pycache__/
+*.pyc
+.venv/
+CH_03_Local_TC_Generator/src/settings.json
